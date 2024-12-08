@@ -1,69 +1,77 @@
 [[GAP_pkg_guava]]
 arch = "aarch64"
-git-tree-sha1 = "bd1eaa6284795015de9c7334fdb425245be4e501"
+git-tree-sha1 = "4ee6bc3bebf568c5f83738b6c776f92cdc99916b"
 os = "macos"
 
     [[GAP_pkg_guava.download]]
-    sha256 = "a8f52c1e15031f9b081bc1f8b94fc163452d60987a6a18a292dbace2ae72a7af"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_guava_jll.jl/releases/download/GAP_pkg_guava-v300.1800.0+0/GAP_pkg_guava.v300.1800.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "25e8dbbf951b9091c1dbf459bc3f0b840bf55f58409a5a12ffbaf94f9e965209"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_guava_jll.jl/releases/download/GAP_pkg_guava-v300.1900.0+0/GAP_pkg_guava.v300.1900.0.aarch64-apple-darwin.tar.gz"
 [[GAP_pkg_guava]]
 arch = "aarch64"
-git-tree-sha1 = "202ea4ceeef1e58846b878b74a0c89b7bded706b"
+git-tree-sha1 = "87eec82b814b21baba31891d7c5d17fc396b1ada"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_guava.download]]
-    sha256 = "6aa56d9b6b0d7eaf80f638f32f30751081c38e6c538809dadc64a68f72b00402"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_guava_jll.jl/releases/download/GAP_pkg_guava-v300.1800.0+0/GAP_pkg_guava.v300.1800.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "eaa1a61eb51c5f886afc070d4646af2b0797299ecc8e57eae9e7cd47a1644611"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_guava_jll.jl/releases/download/GAP_pkg_guava-v300.1900.0+0/GAP_pkg_guava.v300.1900.0.aarch64-linux-gnu.tar.gz"
 [[GAP_pkg_guava]]
 arch = "aarch64"
-git-tree-sha1 = "7b38b7de4047bdc1c9de7802907a3475a6f76636"
+git-tree-sha1 = "c0189177f4202db69b6ba23c80d37ae3c04419ed"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_guava.download]]
-    sha256 = "f6c8257512670baa715f966da734804443efeae71b86788058c59025f1f8d3ef"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_guava_jll.jl/releases/download/GAP_pkg_guava-v300.1800.0+0/GAP_pkg_guava.v300.1800.0.aarch64-linux-musl.tar.gz"
+    sha256 = "a8f38491124f9622a56c24a8d7c51458ce3353f0c0c582acb99aa4338f99d359"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_guava_jll.jl/releases/download/GAP_pkg_guava-v300.1900.0+0/GAP_pkg_guava.v300.1900.0.aarch64-linux-musl.tar.gz"
 [[GAP_pkg_guava]]
-arch = "powerpc64le"
-git-tree-sha1 = "7987c2d12266f84df19be5ad2f11e08c7667f725"
-libc = "glibc"
-os = "linux"
-
-    [[GAP_pkg_guava.download]]
-    sha256 = "615f07ab516ea247b9ebf3f371f8b0cb8b17b74b296025db1a4fa482d598ad57"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_guava_jll.jl/releases/download/GAP_pkg_guava-v300.1800.0+0/GAP_pkg_guava.v300.1800.0.powerpc64le-linux-gnu.tar.gz"
-[[GAP_pkg_guava]]
-arch = "x86_64"
-git-tree-sha1 = "9ee3da86d25b8562740102a70e6996a06aa73581"
-os = "macos"
-
-    [[GAP_pkg_guava.download]]
-    sha256 = "5e86e84bc0908542e4af064866e164de37c841fd648f547d8d874d0be7844a86"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_guava_jll.jl/releases/download/GAP_pkg_guava-v300.1800.0+0/GAP_pkg_guava.v300.1800.0.x86_64-apple-darwin.tar.gz"
-[[GAP_pkg_guava]]
-arch = "x86_64"
-git-tree-sha1 = "c235cd0e33318893599ec075cbbeace61d86fa06"
-libc = "glibc"
-os = "linux"
-
-    [[GAP_pkg_guava.download]]
-    sha256 = "2ee8228775ed7afd2ab23ed8e1ea2929e586664aa7289cad57830c8b0328bd37"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_guava_jll.jl/releases/download/GAP_pkg_guava-v300.1800.0+0/GAP_pkg_guava.v300.1800.0.x86_64-linux-gnu.tar.gz"
-[[GAP_pkg_guava]]
-arch = "x86_64"
-git-tree-sha1 = "89ed3c4bf8c4431e0e44f28c1f5c3346ccc4b158"
-libc = "musl"
-os = "linux"
-
-    [[GAP_pkg_guava.download]]
-    sha256 = "94f5dc7d1341aa27b54f025f514a3042305d9ede1761dbc0ee6a8385207c7a16"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_guava_jll.jl/releases/download/GAP_pkg_guava-v300.1800.0+0/GAP_pkg_guava.v300.1800.0.x86_64-linux-musl.tar.gz"
-[[GAP_pkg_guava]]
-arch = "x86_64"
-git-tree-sha1 = "12fbcc613bf0c4fb7e26aa4e263ca48772ca5ca7"
+arch = "aarch64"
+git-tree-sha1 = "717238d17a9b8e1fed060a1a31c6575a3c943669"
 os = "freebsd"
 
     [[GAP_pkg_guava.download]]
-    sha256 = "18291465051085c80c45dfb8faadaa88658773cec85f8984daf344de2c32df69"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_guava_jll.jl/releases/download/GAP_pkg_guava-v300.1800.0+0/GAP_pkg_guava.v300.1800.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "dfa02ac39f0f8979646892b6d559fa35610b3921dcaf9ccce2e7512321faeec0"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_guava_jll.jl/releases/download/GAP_pkg_guava-v300.1900.0+0/GAP_pkg_guava.v300.1900.0.aarch64-unknown-freebsd.tar.gz"
+[[GAP_pkg_guava]]
+arch = "powerpc64le"
+git-tree-sha1 = "c87d1804b8f40c9d818796088681c6dad4bbd01f"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_guava.download]]
+    sha256 = "c287f56dc41816f20040496964ccd51b35888dfce7bf6be28202155fa5835777"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_guava_jll.jl/releases/download/GAP_pkg_guava-v300.1900.0+0/GAP_pkg_guava.v300.1900.0.powerpc64le-linux-gnu.tar.gz"
+[[GAP_pkg_guava]]
+arch = "x86_64"
+git-tree-sha1 = "2a6c0c53671f89d666113de399c2ba61ca95dfde"
+os = "macos"
+
+    [[GAP_pkg_guava.download]]
+    sha256 = "47132160a88b5a81cbf37bf0952c02eed61e6fdc9c1b1830fa54d495de215373"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_guava_jll.jl/releases/download/GAP_pkg_guava-v300.1900.0+0/GAP_pkg_guava.v300.1900.0.x86_64-apple-darwin.tar.gz"
+[[GAP_pkg_guava]]
+arch = "x86_64"
+git-tree-sha1 = "46b9f1df49052ad30b1327019f5a8365ee57ec01"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_guava.download]]
+    sha256 = "c840290043e7f7f8721cc70197ddd5570ffaa3a85185d4531d2a5ab22030d512"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_guava_jll.jl/releases/download/GAP_pkg_guava-v300.1900.0+0/GAP_pkg_guava.v300.1900.0.x86_64-linux-gnu.tar.gz"
+[[GAP_pkg_guava]]
+arch = "x86_64"
+git-tree-sha1 = "7683c370850d843ea4eb2b0f0c6f2e0465c236fc"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_guava.download]]
+    sha256 = "8ca5b20b5354c250eeccd3fc81de75f641052e188c3689bf45019a7aa4c613d6"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_guava_jll.jl/releases/download/GAP_pkg_guava-v300.1900.0+0/GAP_pkg_guava.v300.1900.0.x86_64-linux-musl.tar.gz"
+[[GAP_pkg_guava]]
+arch = "x86_64"
+git-tree-sha1 = "203d499a6876a1cff863f26080dd7d46c0761a30"
+os = "freebsd"
+
+    [[GAP_pkg_guava.download]]
+    sha256 = "73ee4ffceb940659d9b7aa8147ff4600b447743f32e9771cf5443ec70d2e52e1"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_guava_jll.jl/releases/download/GAP_pkg_guava-v300.1900.0+0/GAP_pkg_guava.v300.1900.0.x86_64-unknown-freebsd.tar.gz"
